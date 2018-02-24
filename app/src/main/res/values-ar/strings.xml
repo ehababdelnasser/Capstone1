@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقى للافلام</string>
+    <string name="toprate">اعلى تقييم</string>
+    <string name="popular">الاشهر</string>
+    <string name="api_key">0bd79f673879110717eda5abfe25f589</string>
+    <string name="date">معلومات</string>
+    <string name="_120min">120دقيقة</string>
+    <string name="_8_5_10">8.5/10</string>
+    <string name="movieO">يسببي</string>
+    <string name="trailers">كليب:</string>
+    <string name="mov_n">اسم الفلم</string>
+    <string name="Empty"> فارغ</string>
+    <string name="author">المالف</string>
+    <string name="review">تقييم</string>
+    <string name="share">مشاركة</string>
+    <string name="email">حساب</string>
+    <string name="passowrd">كلمة المرور</string>
+    <string name="name">الاسم كامل</string>
+
+    <string name="action_settings">الاعدادات</string>
+    <string name="already_user">انا بالفعل عضو؟دخول</string>
+    <string name="add_note">اضف مذكرة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="Add">اضافة</string>
+    <string name="Clear_all">مسح الكل</string>
+    <string name="Create_Acc">عمل حساب</string>
+    <string name="History">السجل</string>
+    <string name="Succ">تم الدخول بنجاح</string>
+    <string name="Note_Added_Successfully">تم اضافة المذكرة بنجاح</string>
+    <string name="succes">تم التسجيل بنجاح</string>
+    <string name="Step">المرحلة</string>
+    <string name="Title">العنوان</string>
+    <string name="submit">اشتراك</string>
+    <string name="failed">خطا فالمصادقة</string>
+    <string name="newUser">انشاء حساب</string>
+    <string name="appwidget_text">مثال</string>
+    <string name="add_widget">اضافة ودجت</string>
+    <string name="FitnessLogo">اعلان</string>
+    <string name="enterTitle">عنوان</string>
+    <string name="enterStep">حطوات</string>
+
+    <string name="fill_all">من فضلك املي جميع الفراغات</string>
+
+    <string name="signUp">تسجيل</string>
+    <string name="sign_in">خروج</string>
+    <string name="no_acc_yet">لا يوجد حساب حتي الان؟ عمل حساب</string>
+    <string name="login">دخول</string>
+    <string name="no_request">المطلوبات غير كاملة</string>
+    <string name="title_activity_login">تسجيل دخول</string>
+    <string name="check">تفقد تسجيل الدخول</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">حساب</string>
+    <string name="prompt_password">كلمة مرور (اختيارى)</string>
+    <string name="action_sign_in">عمل حساب</string>
+    <string name="action_sign_in_short">انشاء حساب</string>
+    <string name="error_invalid_email">خطاء</string>
+    <string name="error_invalid_password">كلمة المرور قصيرة</string>
+    <string name="error_incorrect_password">كلمة المرور خطاء</string>
+    <string name="error_field_required">هذا الطلب مهم</string>
+    <string name="permission_rationale">"يتطلب تصريح للحساب"
+    </string>
+</resources>

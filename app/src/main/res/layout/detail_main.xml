@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.my_app_mov1.Detail_class">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+
+
+            <TextView
+                android:id="@+id/t_v_mov_na"
+                android:textSize="35sp"
+                android:paddingLeft="30dp"
+                android:paddingRight="0dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:padding="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="bold"/>
+
+
+
+
+            <ImageView
+                android:id="@+id/mov_imag"
+                android:layout_width="380dp"
+                android:layout_height="211dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/name"
+
+                android:src="@android:drawable/ic_menu_camera" />
+
+
+        <TextView
+            android:id="@+id/txt_view_date"
+            android:layout_width="211dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:paddingBottom="3dp"
+            android:textSize="23sp"
+            android:layout_weight="0.59" />
+
+        <Button
+            android:id="@+id/Butt_fav"
+            android:layout_width="66dp"
+            android:layout_height="60dp"
+            android:background="@android:drawable/star_big_on" />
+
+        <TextView
+            android:id="@+id/txt_view_vot"
+            android:layout_width="71dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginStart="1dp"
+            android:paddingBottom="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txt_view_min"
+            android:layout_width="169dp"
+            android:layout_height="wrap_content"
+            android:textSize="25sp" />
+
+
+        <TextView
+            android:id="@+id/text_view_over"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_weight="2.03"
+            android:textSize="18sp" />
+
+
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/fab"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:clickable="true"
+        android:src="@drawable/blus"
+        android:contentDescription="@string/add_note"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="19dp" />
+</RelativeLayout>

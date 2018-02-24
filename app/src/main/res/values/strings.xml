@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">My_App_Mov1</string>
+    <string name="toprate">Top Rated</string>
+    <string name="popular">Most popular</string>
+    <string name="api_key">0bd79f673879110717eda5abfe25f589</string>
+    <string name="date">date</string>
+    <string name="_120min">120min</string>
+    <string name="_8_5_10">8.5/10</string>
+    <string name="movieO">Udacity</string>
+    <string name="trailers">Trailers:</string>
+    <string name="mov_n">MovieName</string>
+    <string name="author">Author</string>
+    <string name="review">review</string>
+    <string name="share">share</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="passowrd">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="Create_Acc">Create Account</string>
+    <string name="no_acc_yet">Make an Account</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+
+    <string name="no_request" >Requirements not complete</string>
+    <string name="Note_Added_Successfully">Note Added Successfully</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already a member? Login.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="submit">Submit</string>
+    <string name="name">Full Name</string>
+
+
+    <string name="Title">Title</string>
+    <string name="Step">Step</string>
+    <string name="Add">Add</string>
+    <string name="Clear_all">Clear </string>
+    <string name="History">Note</string>
+    <string name="add_note">noteAttr is added</string>
+    <string name="failed"> failed</string>
+    <string name="Empty"> empty</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="FitnessLogo">Fit Logo</string>
+    <string name="enterTitle">Title</string>
+    <string name="enterStep">Step</string>
+    <string name="Succ">Succefully Login</string>
+    <string name="fill_all">Please Fill All information</string>
+    <string name="succes"> succefully Registration</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="check">check login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
